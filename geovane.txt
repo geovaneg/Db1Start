@@ -1,0 +1,23 @@
+PROJETO : Camel Case (todas inicia com maiuscula)
+CLASSE  : Camel Case
+
+VARIAVEL/ATRIBUTO : java Case (primeira minuscula e posteriores maiusculas 
+PACOTE  : nome do pacote
+METODO  : Java Case 
+
+-------------------------------------------------------------------------------
+
+UML    - Linguagem de Modelagem Unificada (Utilizada para arquitetar projetos de software)
+Classe - é um conjuto de abstrações de objetos com caracteristicas similares.
+Objeto - Tem um ou mais comportamentos, definidos pela classe.
+
+-------------------------------------------------------------------------------
+
+ASSOCIAÇÃO - é um relacionamento entre classes e um nao depende do outro para ter um significado logico, objeto contem um... (fraco).
+AGREGAÇÃO  - é um relacionamento entre classes, parte de ... (fraco).
+COMPOSIÇÃO - é um relacionamento entre classes, um objeto é composto por... (forte).
+HERANÇA    - é um...(forte).
+CARDINALIDADE - (1 - N) ... (N - N) ... (0 - 1) ... (1 - 1)
+
+-------------------------------------------------------------------------------
+
